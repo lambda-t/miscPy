@@ -1,0 +1,1527 @@
+/Users/vpolal/anaconda3/bin/python3.6 /Users/vpolal/IdeaProjects/gaload/test_facebook.py
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "3"
+        },
+        {
+            "action_type": "link_click",
+            "value": "4"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "4"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "4"
+        }
+    ],
+    "ad_id": "23842724679120263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "5",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "460",
+    "publisher_platform": "instagram",
+    "reach": "460",
+    "spend": "3.91"
+}
+<AdsInsights> {
+    "ad_id": "23842724679120263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "3",
+    "publisher_platform": "instagram",
+    "reach": "3",
+    "spend": "0.02"
+}
+<AdsInsights> {
+    "ad_id": "23842724679120263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "105",
+    "publisher_platform": "instagram",
+    "reach": "105",
+    "spend": "0.95"
+}
+<AdsInsights> {
+    "ad_id": "23842724679120263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "2",
+    "publisher_platform": "instagram",
+    "reach": "2",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "6"
+        },
+        {
+            "action_type": "link_click",
+            "value": "6"
+        },
+        {
+            "action_type": "post_reaction",
+            "value": "5"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "11"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "11"
+        }
+    ],
+    "ad_id": "23842724679070263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "6",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "995",
+    "publisher_platform": "instagram",
+    "reach": "995",
+    "spend": "8.27"
+}
+<AdsInsights> {
+    "ad_id": "23842724679070263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "7",
+    "publisher_platform": "instagram",
+    "reach": "7",
+    "spend": "0.05"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "post_reaction",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724679070263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "197",
+    "publisher_platform": "instagram",
+    "reach": "197",
+    "spend": "1.59"
+}
+<AdsInsights> {
+    "ad_id": "23842724679070263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "2",
+    "publisher_platform": "instagram",
+    "reach": "2",
+    "spend": "0.02"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "2"
+        },
+        {
+            "action_type": "post_reaction",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "3"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "3"
+        }
+    ],
+    "ad_id": "23842724679040263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "2",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "268",
+    "publisher_platform": "instagram",
+    "reach": "268",
+    "spend": "3.37"
+}
+<AdsInsights> {
+    "ad_id": "23842724679040263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "1",
+    "publisher_platform": "instagram",
+    "reach": "1",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724679040263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "79",
+    "publisher_platform": "instagram",
+    "reach": "79",
+    "spend": "1.08"
+}
+<AdsInsights> {
+    "ad_id": "23842724679040263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "1",
+    "publisher_platform": "instagram",
+    "reach": "1",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "ad_id": "23842724676590263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "2",
+    "publisher_platform": "instagram",
+    "reach": "2",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "2"
+        },
+        {
+            "action_type": "link_click",
+            "value": "4"
+        },
+        {
+            "action_type": "post",
+            "value": "1"
+        },
+        {
+            "action_type": "post_reaction",
+            "value": "3"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "8"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "8"
+        }
+    ],
+    "ad_id": "23842724676590263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "5",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.000896",
+    "impression_device": "iphone",
+    "impressions": "1117",
+    "publisher_platform": "instagram",
+    "reach": "1116",
+    "spend": "10.1"
+}
+<AdsInsights> {
+    "ad_id": "23842724676590263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "3",
+    "publisher_platform": "instagram",
+    "reach": "3",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "post_reaction",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724676590263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "147",
+    "publisher_platform": "instagram",
+    "reach": "147",
+    "spend": "1.08"
+}
+<AdsInsights> {
+    "ad_id": "23842724676590263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "1",
+    "publisher_platform": "instagram",
+    "reach": "1",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "ad_id": "23842724676350263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842676391680263",
+    "campaign_name": "us_frilly_general_prospecting_all-0006",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "2",
+    "publisher_platform": "instagram",
+    "reach": "2",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "5"
+        },
+        {
+            "action_type": "link_click",
+            "value": "5"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "5"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "5"
+        }
+    ],
+    "ad_id": "23842724668700263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "6",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.039106",
+    "impression_device": "desktop",
+    "impressions": "186",
+    "publisher_platform": "facebook",
+    "reach": "179",
+    "spend": "4"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "2"
+        },
+        {
+            "action_type": "link_click",
+            "value": "2"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "2"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "2"
+        }
+    ],
+    "ad_id": "23842724668700263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "3",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.038462",
+    "impression_device": "iphone",
+    "impressions": "135",
+    "publisher_platform": "facebook",
+    "reach": "130",
+    "spend": "2.38"
+}
+<AdsInsights> {
+    "ad_id": "23842724668700263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "2",
+    "publisher_platform": "facebook",
+    "reach": "2",
+    "spend": "0.03"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "2"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "2"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "2"
+        }
+    ],
+    "ad_id": "23842724668700263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "2",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.04",
+    "impression_device": "android_smartphone",
+    "impressions": "52",
+    "publisher_platform": "facebook",
+    "reach": "50",
+    "spend": "0.81"
+}
+<AdsInsights> {
+    "ad_id": "23842724668700263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "ad_id": "23842724668690263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0.03"
+}
+<AdsInsights> {
+    "ad_id": "23842724668690263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.186747",
+    "impression_device": "desktop",
+    "impressions": "197",
+    "publisher_platform": "facebook",
+    "reach": "166",
+    "spend": "3.46"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724668690263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "3",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.006667",
+    "impression_device": "iphone",
+    "impressions": "151",
+    "publisher_platform": "facebook",
+    "reach": "150",
+    "spend": "2.82"
+}
+<AdsInsights> {
+    "ad_id": "23842724668690263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "8",
+    "publisher_platform": "facebook",
+    "reach": "8",
+    "spend": "0.2"
+}
+<AdsInsights> {
+    "ad_id": "23842724668690263",
+    "adset_name": "female_35-44_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.056604",
+    "impression_device": "android_smartphone",
+    "impressions": "56",
+    "publisher_platform": "facebook",
+    "reach": "53",
+    "spend": "1.18"
+}
+<AdsInsights> {
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "2",
+    "publisher_platform": "facebook",
+    "reach": "2",
+    "spend": "0.03"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.100592",
+    "impression_device": "desktop",
+    "impressions": "186",
+    "publisher_platform": "facebook",
+    "reach": "169",
+    "spend": "4.17"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "3"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "3"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "3"
+        }
+    ],
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "5",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.014493",
+    "impression_device": "iphone",
+    "impressions": "280",
+    "publisher_platform": "facebook",
+    "reach": "276",
+    "spend": "4.61"
+}
+<AdsInsights> {
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0.23"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "2"
+        },
+        {
+            "action_type": "link_click",
+            "value": "3"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "3"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "3"
+        }
+    ],
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "4",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "71",
+    "publisher_platform": "facebook",
+    "reach": "71",
+    "spend": "1.2"
+}
+<AdsInsights> {
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "ad_id": "23842724668680263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipod",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0.02"
+}
+<AdsInsights> {
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0.01"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "3"
+        },
+        {
+            "action_type": "link_click",
+            "value": "3"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "3"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "3"
+        }
+    ],
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "3",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.186047",
+    "impression_device": "desktop",
+    "impressions": "153",
+    "publisher_platform": "facebook",
+    "reach": "129",
+    "spend": "2.17"
+}
+<AdsInsights> {
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.012658",
+    "impression_device": "iphone",
+    "impressions": "80",
+    "publisher_platform": "facebook",
+    "reach": "79",
+    "spend": "1.43"
+}
+<AdsInsights> {
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipad",
+    "impressions": "3",
+    "publisher_platform": "facebook",
+    "reach": "3",
+    "spend": "0.05"
+}
+<AdsInsights> {
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.026316",
+    "impression_device": "android_smartphone",
+    "impressions": "39",
+    "publisher_platform": "facebook",
+    "reach": "38",
+    "spend": "0.82"
+}
+<AdsInsights> {
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724668660263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "ipod",
+    "impressions": "2",
+    "publisher_platform": "facebook",
+    "reach": "2",
+    "spend": "0.04"
+}
+<AdsInsights> {
+    "ad_id": "23842724668650263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "desktop",
+    "impressions": "4",
+    "publisher_platform": "facebook",
+    "reach": "4",
+    "spend": "0.09"
+}
+<AdsInsights> {
+    "ad_id": "23842724668650263",
+    "adset_name": "female_25-34_no_no_no_shopping-jobinterest",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724668640263",
+    "adset_name": "female_35-44_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "2",
+    "impression_device": "desktop",
+    "impressions": "2",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724662360263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "desktop",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724662360263",
+    "adset_name": "female_25-34_no_no_no_shopping-hhi",
+    "campaign_id": "23842675434450263",
+    "campaign_name": "us_frilly_general_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "1",
+    "publisher_platform": "facebook",
+    "reach": "1",
+    "spend": "0.04"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0.35"
+}
+<AdsInsights> {
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "desktop",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "7",
+    "publisher_platform": "facebook",
+    "reach": "7",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "5",
+    "publisher_platform": "instagram",
+    "reach": "5",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "link_click",
+            "value": "6"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "6"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "6"
+        }
+    ],
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "8",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.015291",
+    "impression_device": "android_smartphone",
+    "impressions": "332",
+    "publisher_platform": "facebook",
+    "reach": "327",
+    "spend": "2.84"
+}
+<AdsInsights> {
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "1",
+    "publisher_platform": "instagram",
+    "reach": "1",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724660920263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.142857",
+    "impression_device": "android_tablet",
+    "impressions": "8",
+    "publisher_platform": "facebook",
+    "reach": "7",
+    "spend": "0.31"
+}
+<AdsInsights> {
+    "ad_id": "23842724660910263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "3",
+    "publisher_platform": "facebook",
+    "reach": "3",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660910263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "desktop",
+    "impressions": "2",
+    "publisher_platform": "facebook",
+    "reach": "2",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724660910263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "7",
+    "publisher_platform": "facebook",
+    "reach": "7",
+    "spend": "0.31"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "link_click",
+            "value": "5"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "5"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "5"
+        }
+    ],
+    "ad_id": "23842724660910263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "5",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.017391",
+    "impression_device": "android_smartphone",
+    "impressions": "117",
+    "publisher_platform": "facebook",
+    "reach": "115",
+    "spend": "1.76"
+}
+<AdsInsights> {
+    "ad_id": "23842724660910263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "4",
+    "publisher_platform": "facebook",
+    "reach": "4",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "desktop",
+    "impressions": "17",
+    "publisher_platform": "facebook",
+    "reach": "17",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "landing_page_view",
+            "value": "1"
+        },
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "post_reaction",
+            "value": "2"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "3"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "3"
+        }
+    ],
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "40",
+    "publisher_platform": "instagram",
+    "reach": "40",
+    "spend": "0.37"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "link_click",
+            "value": "7"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "7"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "7"
+        }
+    ],
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "11",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.010438",
+    "impression_device": "android_smartphone",
+    "impressions": "484",
+    "publisher_platform": "facebook",
+    "reach": "479",
+    "spend": "3.3"
+}
+<AdsInsights> {
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_smartphone",
+    "impressions": "8",
+    "publisher_platform": "instagram",
+    "reach": "8",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660870263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 25-34",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "7",
+    "publisher_platform": "facebook",
+    "reach": "7",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "link_click",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724660860263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "1",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "other",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0.35"
+}
+<AdsInsights> {
+    "ad_id": "23842724660860263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "desktop",
+    "impressions": "5",
+    "publisher_platform": "facebook",
+    "reach": "5",
+    "spend": "0"
+}
+<AdsInsights> {
+    "ad_id": "23842724660860263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "3",
+    "publisher_platform": "facebook",
+    "reach": "3",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "post_reaction",
+            "value": "1"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "1"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "1"
+        }
+    ],
+    "ad_id": "23842724660860263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "iphone",
+    "impressions": "2",
+    "publisher_platform": "instagram",
+    "reach": "2",
+    "spend": "0"
+}
+<AdsInsights> {
+    "actions": [
+        {
+            "action_type": "link_click",
+            "value": "8"
+        },
+        {
+            "action_type": "page_engagement",
+            "value": "8"
+        },
+        {
+            "action_type": "post_engagement",
+            "value": "8"
+        }
+    ],
+    "ad_id": "23842724660860263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "8",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1.020896",
+    "impression_device": "android_smartphone",
+    "impressions": "342",
+    "publisher_platform": "facebook",
+    "reach": "335",
+    "spend": "2.67"
+}
+<AdsInsights> {
+    "ad_id": "23842724660860263",
+    "adset_name": "Lookalike 1% - Purchasers (180) - F, 35-44",
+    "campaign_id": "23842703877380263",
+    "campaign_name": "us_frilly_lal_prospecting_all-0005",
+    "clicks": "0",
+    "date_start": "2018-01-29",
+    "date_stop": "2018-01-29",
+    "frequency": "1",
+    "impression_device": "android_tablet",
+    "impressions": "13",
+    "publisher_platform": "facebook",
+    "reach": "13",
+    "spend": "0"
+}
+Traceback (most recent call last):
+  File "/Users/vpolal/IdeaProjects/gaload/test_facebook.py", line 72, in <module>
+    for i in insights:
+  File "/Users/vpolal/anaconda3/lib/python3.6/site-packages/facebookads/api.py", line 817, in __next__
+    if not self._queue and not self.load_next_page():
+  File "/Users/vpolal/anaconda3/lib/python3.6/site-packages/facebookads/api.py", line 851, in load_next_page
+    params=self.params,
+  File "/Users/vpolal/anaconda3/lib/python3.6/site-packages/facebookads/api.py", line 332, in call
+    raise fb_response.error()
+facebookads.exceptions.FacebookRequestError:
+
+  Message: Call was not successful
+  Method:  GET
+  Path:    https://graph.facebook.com/v2.12/act_693598040844198/insights?access_token=EAACE1f4a0kYBAPlUxz5AbMmwzQapkJ0DkkGLPEjDBB2ZCwRxZCAZAN84MGwEOTCgzJBgAEMEMKHFQzuBe5SZAbXjHA39I9ztYMDSlks9PxQ2mYKh23IiZBm2fBEoPnJ4YgnDCCuRltrqA2edePRYvKukhoFJUzio9wa8k2BXYqADmcKg0jI25ZADv2ZA9m5OZB4ZD&fields=campaign_name%2Ccampaign_id%2Cimpressions%2Creach%2Cactions%2Cspend%2Cad_id%2Cdate_start%2Cdate_stop%2Cadset_name%2Cclicks%2Cfrequency&breakdowns=%5B%22impression_device%22%2C%22publisher_platform%22%5D&level=ad&time_range=%7B%22since%22%3A%222018-01-29%22%2C%22until%22%3A%222018-01-29%22%7D&limit=1&after=NzEZD
+  Params:  {'time_range': '{"since":"2018-01-29","until":"2018-01-29"}', 'level': 'ad', 'limit': 1, 'breakdowns': '["impression_device","publisher_platform"]', 'fields': 'campaign_name,campaign_id,impressions,reach,actions,spend,ad_id,date_start,date_stop,adset_name,clicks,frequency'}
+
+  Status:  400
+  Response:
+    {
+      "error": {
+        "message": "(#17) User request limit reached",
+        "type": "OAuthException",
+        "is_transient": true,
+        "code": 17,
+        "fbtrace_id": "BSk7yRAMKuQ"
+      }
+    }
+
+
+Process finished with exit code 1

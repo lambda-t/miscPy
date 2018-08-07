@@ -1,0 +1,60 @@
+Checking for file _SUCCESS
+Processing Xlsx files
+Creating connection to redshift
+Loading excel file
+Loading data into media_spends
+(psycopg2.OperationalError) could not connect to server: Connection refused
+	Is the server running on host "ganalytic.cvqb8lx7aald.us-west-2.redshift.amazonaws.com" (35.165.62.176) and accepting
+	TCP/IP connections on port 5439?
+ (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+Processing Xlsx files
+Creating connection to redshift
+Loading excel file
+Loading data into media_spends
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+Processing Xlsx files
+Creating connection to redshift
+Loading excel file
+Loading data into media_spends
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+Processing Xlsx files
+Creating connection to redshift
+Loading excel file
+Loading data into media_spends
+Deleting _SUCCESS file
+Moving data file to backup dir
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
+Checking for file _SUCCESS
+2018-02-06:Sleeping for 10 seconds
